@@ -1,7 +1,7 @@
 *Updated 06-24-23*
 
 
-#### OSINT Tools
+## OSINT Tools
 Remember that most every OSINT tool is automating a process that could be done manually. Take the time to understand what a tool is doing before relying on it too heavily. 
 
 Username Enumeration: https://whatsmyname.app/
@@ -14,7 +14,7 @@ Reverse Image Lookup: https://pimeyes.com/en
 
 Password Breaches: https://haveibeenpwned.com/
 
-#### Books and Blog Posts
+## Books and Blog Posts
 Michael Bazzell "OSINT Techniques": https://inteltechniques.com/book1.html
 
 Rae Baker "Deep Dive": https://www.raebaker.net/
@@ -23,7 +23,7 @@ Chris Kirsch, OSINT and Social Engineering: https://medium.com/@chris.kirsch/top
 
 Collection of OSINT Resources from OhShint!: https://github.com/OhShINT/ohshint.gitbook.io
 
-#### Videos
+## Videos
 SinWindie and Darkweb Markets: https://www.youtube.com/watch?v=IqZZU9lFlF4
 
 Joe Gray Training from ConINT: https://www.youtube.com/watch?v=EePeB9A2ZAk
@@ -32,16 +32,16 @@ Sock Puppet Webinar: https://www.youtube.com/watch?v=EEeJcZhxAf4
 
 ConINT Catalog: https://www.youtube.com/@conINT_io/videos
 
-#### Podcasts
+## Podcasts
 Breadcrumbs by Trace Labs: https://podcasts.apple.com/us/podcast/breadcrumbs-by-trace-labs/id1542092539
 
 OSINT, Privacy and Security Podcast: https://inteltechniques.com/podcast.html
 
-#### Training Courses
+## Training Courses
 
 Joe Gray: https://www.theosintion.com/
 
-#### Key Takeaways 
+## Key Takeaways 
 * Planning, Planning, Planning
 * Always keep your objective in mind
 * Have clear rules of engagement
